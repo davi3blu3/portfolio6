@@ -269,22 +269,12 @@ a .fa-fw {
 
 .img-portfolio {
     margin: 0 auto;
-    z-index: 0;
 }
 
 .portfolio-item {
     margin-bottom: 30px;
 }
 
-.portfolio-img {
-    background-image: "img/projects/tic_tac_toe.jpg",
-    display: block;
-    max-width: 100%;
-    height: auto;
-    overflow: clip;
+.overlay {
+    display: inline-block;
 }
-
-.mask {
-    overflow: clip;
-}
-
