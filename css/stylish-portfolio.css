@@ -248,11 +248,11 @@ footer {
 
 .jumbotron {
     background-color: rgba(0,0,0,.4);
-    color: #fff;
+    color: #eee;
 }
 
 a .fa-fw {
-    color: #fff !important;
+    color: #fff;
 }
 
 .about-container {
